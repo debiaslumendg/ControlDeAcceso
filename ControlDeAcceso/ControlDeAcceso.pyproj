@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="ControlDeAcceso.py" />
+    <Compile Include="mdltestaccesscontrol.py" />
     <Compile Include="mdlaccesscontrol.py" />
   </ItemGroup>
   <PropertyGroup>
